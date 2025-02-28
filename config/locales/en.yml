@@ -4484,6 +4484,13 @@ en:
     it's absolutely necessary.
   places_warning_quota: |
     You can only create three places per day.
+  places_warning_size: |
+    A new place cannot be larger than 700,000 sq kilometers (~270,000 sq mi) or approximately 
+    the area of the US state of Texas.
+  places_warning_observation_limit: |
+    A new place cannot contain more than 200,000 observations (including casual observations).
+  places_warning_wait_time: |
+    It may take several hours, or up to a day, for observations to appear in your new place.
   places_warning_the_future: |
     For what it's worth, we will have to restrict the conditions under which
     people can add places in the future given iNat's current rate of growth.
